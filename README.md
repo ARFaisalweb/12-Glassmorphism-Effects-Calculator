@@ -1,6 +1,6 @@
 ## Glassmorphism Effects Calculator
 ### Inspired from Online Tutorials Youtube channel
-## Live Link: https://arfaisalweb.github.io/12-Glassmorphism-Effects-Calculator/ 
+## Live Link: https://coderFaiisal.github.io/12-Glassmorphism-Effects-Calculator/ 
 
 ### Technologies used on this Project:
 * HTML5
